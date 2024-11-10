@@ -3,10 +3,10 @@ Message Handling: In this project we will be creating a whatsapp based chatbot w
 
 
 ````
-## if("message"=="scheduling"):
-  ### send to whatsapp service
-## else:
-###  reject it outright
+if("message"=="scheduling"):
+ send to whatsapp service
+else:
+  reject it outright
 ````
 
 2. Message Extraction: If the message is for scheduling, the chatbot will extract:
