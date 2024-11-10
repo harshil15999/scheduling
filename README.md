@@ -34,8 +34,9 @@ else:
   - Storing in the database
     
 ## Challenges:
-1. Whatsapp connection to the server: 
-2. Mapping of the number to the persons name in the contact book and handling of multiple people of the same name.
+1. Doing it for one person 
+2. Whatsapp connection to the server
+3. Mapping of the number to the persons name in the contact book and handling of multiple people of the same name.
 
 v1.0.0:
 1. Connecting whatsapp bot and making hello world
