@@ -2,9 +2,9 @@
 Message Handling: In this project we will be creating a whatsapp based chatbot where we will take the message from the user and create a scheduler to send the message to the person.
 
 -- if("message"=="scheduling")
-  - send to whatsapp service
+  -- send to whatsapp service
 -- else:
-  - reject it outright
+  -- reject it outright
 
 2. Message Extraction: If the message is for scheduling, the chatbot will extract:
 - Sender Name
